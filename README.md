@@ -1,0 +1,1 @@
+# IBM This is a repository incase IBM wants a repository. I will code in binary some examples of what ive done but this folder will be strickly for IBM related content which I havent even begun to work on. My email is Eric.Maucher@yahoo.com if you have any questions.
